@@ -39,3 +39,9 @@ This snapshots main before this documentation change. It is a rollback reference
 ## Mobile check after later changes
 
 Open the live app, switch Telugu/English, use main screens and Back, close overlays, refresh/reopen, and verify saved input/progress. Report the screen and exact steps if something fails.
+
+
+## 2026-10-12 - Compulsory name and mobile registration
+-User11:11:51voice-noteinstructionverified.Name is now required (blank/whitespace blocked) beforeentry;mobile/PIN rulespreserved,notphoneownership verification. Fingerprintcannotbypassmissingregisteredname.
+-Name+mobile mapped to existingprivateGoogleForm/Sheet;MECHONICnewrequiredShortanswerNameentry205745422,existingMobileentry1612654723unchanged. Oldrows/PIN/progressnotdeleted;oldnamelessqueuedrowswaitfor matchingname.
+-Prepared/liveQA usesinterceptedFormPOSTs,notfakeleads. ActualSheetrowarrivalnotclaimeduntilverified. Physicalphone/fingerprintscan notclaimed.
