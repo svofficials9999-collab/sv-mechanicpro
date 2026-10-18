@@ -45,3 +45,5 @@ Open the live app, switch Telugu/English, use main screens and Back, close overl
 -User11:11:51voice-noteinstructionverified.Name is now required (blank/whitespace blocked) beforeentry;mobile/PIN rulespreserved,notphoneownership verification. Fingerprintcannotbypassmissingregisteredname.
 -Name+mobile mapped to existingprivateGoogleForm/Sheet;MECHONICnewrequiredShortanswerNameentry205745422,existingMobileentry1612654723unchanged. Oldrows/PIN/progressnotdeleted;oldnamelessqueuedrowswaitfor matchingname.
 -Prepared/liveQA usesinterceptedFormPOSTs,notfakeleads. ActualSheetrowarrivalnotclaimeduntilverified. Physicalphone/fingerprintscan notclaimed.
+
+-2026-10-19 MEC-001: lesson/tech వినండి (Listen) button no longer silent while a recording is pending - wired a "రికార్డింగ్‌లు త్వరలో / Recordings coming soon" toast (2.6s, role=status) on the no-index-entry and audio-script-error paths; existing "recording not available yet" note and all other behavior unchanged (no look/feature change). sw cache svmp-name32-bounded-startup -> svmp-name33-rec-soon-toast.
