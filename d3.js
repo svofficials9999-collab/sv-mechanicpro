@@ -1,6 +1,6 @@
 LS.push(
 {id:14,img:'battery',t:['బ్యాటరీ: చెక్, శుభ్రం, చార్జింగ్','Battery: check, clean, charge'],
-intro:['స్టార్ట్ కాకపోవడానికి మొదటి కారణం చాలాసార్లు బ్యాటరీనే. సాధారణ 12 వోల్ట్ల లెడ్-యాసిడ్ బ్యాటరీ ప్రాథమికాలు తెలుసుకోండి (ఈ పాఠం దానికే; EV/హై-వోల్టేజ్ వ్యవస్థల్లో DIY చేయకండి).','A weak battery is often the first reason a bike will not start. Learn the basics of the 12-volt battery.'],
+intro:['స్టార్ట్ కాకపోవడానికి మొదటి కారణం చాలాసార్లు బ్యాటరీనే. సాధారణ 12 వోల్ట్ల లెడ్-యాసిడ్ బ్యాటరీ ప్రాథమికాలు తెలుసుకోండి (ఈ పాఠం దానికే; EV/హై-వోల్టేజ్ వ్యవస్థల్లో DIY చేయకండి).','A weak battery is often the first reason a bike will not start. Learn the basics of the ordinary 12-volt lead-acid battery (this lesson covers only that; do not DIY on EV / high-voltage systems).'],
 steps:[
 ['బ్యాటరీ ఎక్కడ ఉందో కనుక్కోండి (సీటు లేదా సైడ్ కవర్ కింద). ఇగ్నిషన్ ఆఫ్ చేయండి.','Locate the battery (under the seat or a side cover). Switch the ignition off.'],
 ['కళ్లతో చూడండి: బ్యాటరీ ఉబ్బి ఉందా, కారుతోందా, టెర్మినల్స్‌పై తెల్లటి/ఆకుపచ్చ పొడి (కరోజన్) ఉందా?','Look closely: is it swollen or leaking, any white or green powder (corrosion) on the terminals?'],
